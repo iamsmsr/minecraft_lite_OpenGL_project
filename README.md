@@ -1,5 +1,6 @@
 **A simple Minecraft-inspired 3D game in Python using PyOpenGL and GLUT.**
-(A video of the features are included in this repo)
+(A video of the features are included in this repo && This was a CSE423 Group Project)
+
 
 Features include:
 - Block world with trees, clouds, and cattle  
